@@ -1,0 +1,12 @@
+{
+    "repos": "https://github.com/lodash/lodash.git",
+    "version": "3.2.0",
+    "tag": "master",
+    "name": "lodash.isplainobject",
+    "main": "index.js",
+    "dependencies": {
+        "lodash._basefor": "^3.0.0",
+        "lodash.isarguments": "^3.0.0",
+        "lodash.keysin": "^3.0.0"
+    }
+}
